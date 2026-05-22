@@ -5,9 +5,9 @@
     "scientific_name": "Striga hermonthica",
     "disease_type": "Weed",
     "listImage": [
-      "https://content.peat-cloud.com/w400/striga-1.jpg",
-      "https://content.peat-cloud.com/w400/striga-2.jpg",
-      "https://content.peat-cloud.com/w400/striga-3.jpg"
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/striga_hermonthica_1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/striga_hermonthica_2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/striga_hermonthica_3.jpg"
     ],
     "symptoms": "Also known as purple witchweed, this plant is characterized by green stems and leaves as well as small, bright purple flowers. The weed parasitizes crops and sucks water and nutrients from the host plant, leading to symptoms similar to drought or nutrient deficiency: yellowing, wilting leaves, and stunted growth. Symptoms before the weed appears are difficult to diagnose accurately because they resemble common nutrient deficiencies. Once witchweed appears, it is too late to mitigate the damage, even by removing the weed. This can result in significant yield losses.",
     "organic_control": "Witchweed is one of the most difficult parasitic plants to control, mainly due to the high number of seeds it produces and its lifespan. Affected plants should be uprooted and burned before the weed flowers. The fungus Fusarium oxysporum can be used as a biological control method against witchweed because the fungus infects the new vascular tissues of the Striga plant and impairs its growth.",
@@ -23,9 +23,9 @@
     "scientific_name": "Fruit Deformation",
     "disease_type": "Other",
     "listImage": [
-      "https://content.peat-cloud.com/w400/striga-1.jpg",
-      "https://content.peat-cloud.com/w400/striga-2.jpg",
-      "https://content.peat-cloud.com/w400/striga-3.jpg"
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Fruit_Deformation1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Fruit_Deformation2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Fruit_Deformation3.jpg"
     ],
     "symptoms": "Symptoms appear as cracks on the outer skin of the fruit. The cracks vary in depth and size, usually appearing around the top of the fruit. The concentric or radial symmetry of the lesions may indicate different physiological problems the plant is experiencing. Sometimes the bottom of the fruit is also affected. The younger the fruit, the greater the damage caused by the cracks. Cracks may appear around the stem. This disorder is caused by the fruit growing excessively beyond the capacity of the fruit's skin. The elasticity of the fruit's skin is subjected to excessive tension, causing small cracks to appear and gradually break.Cracking out.",
     "organic_control": "There are no biological controls for this disease. It can only be treated with preventative measures.",
@@ -41,9 +41,9 @@
     "scientific_name": "Tomato Catface",
     "disease_type": "Other",
     "listImage": [
-      "https://content.peat-cloud.com/w400/striga-1.jpg",
-      "https://content.peat-cloud.com/w400/striga-2.jpg",
-      "https://content.peat-cloud.com/w400/striga-3.jpg"
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Tomato_Catface1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Tomato_Catface2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Tomato_Catface3.jpg"
     ],
     "symptoms": "Tomato Catface is a physiological disorder that causes the fruit to develop abnormally with the formation of scars, usually appearing at the end of the flowering stage. Affected fruits often have a lobed shape with brown scars appearing between the lobes and potentially penetrating deep into the flesh. This symptom should not be confused with concentric or radial fruit cracking in tomato fruit cracking disease. Although the commercial value is lost, such deformed fruits retain their normal flavor and are completely safe to use. Possible causes of this symptom include... The above is due to cold weather, with nighttime temperatures below 12°C, occurring during the flowering stage, high nitrogen content, and herbicide damage. Tomato varieties that produce large fruits are more susceptible to this disease than others.",
     "organic_control": "This disease can only be controlled by preventative measures.",
@@ -59,9 +59,9 @@
     "scientific_name": "Tomato Zippering",
     "disease_type": "Other",
     "listImage": [
-      "https://content.peat-cloud.com/w400/tomato-zippering-1.jpg",
-      "https://content.peat-cloud.com/w400/tomato-zippering-2.jpg",
-      "https://content.peat-cloud.com/w400/tomato-zippering-3.jpg"
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Tomato_Zippering1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Tomato_Zippering2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Tomato_Zippering3.jpg"
     ],
     "symptoms": "Scarring is a physiological disorder resulting in the formation of thin, brown necrotic scars running along the length of the fruit, creating localized cracks. The scars develop partly along the length and width of the fruit, sometimes connecting the bottom of the fruit to the stem in a zipper-like lesion. Deep grooves in the scar tissue, deforming the fruit surface, are also common symptoms. Damaged tissues lose their elasticity and the fruit cannot develop properly. Once the damage has occurred, any treatment is too late.",
     "organic_control": "There are no biological controls for this disease. It can only be treated with preventative measures.",
@@ -77,16 +77,16 @@
     "scientific_name": "Alternaria triticina",
     "disease_type": "Fungal",
     "listImage": [
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342151.jpg",
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342152.jpg",
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342153.jpg"
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Alternaria_triticina1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Alternaria_triticina2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Alternaria_triticina3.jpg"
     ],
     "symptoms": "Young plants are resistant to the pathogen. The lowermost leaves are always the first to show signs of infection, which gradually spreads to the upper leaves. Infection begins as small, oval, chlorotic lesions which are irregularly scattered on the lowermost leaves, gradually spreading to the upper leaves. Over time, the lesions enlarge, become irregular in shape and develop into dark brown or grey sunken lesions. Lesions may have a bright yellow marginal zone and can grow up to 1cm or more in diameter. Under moist conditions, lesions may be covered by black powdery conidia. At later stages of the disease, lesions will merge together resulting in the death of the entire leaf. In severe cases, leaf sheaths, awns and glumes are also affected and have a burnt appearance.",
     "organic_control": "Seedborne infections can be controlled by treating seed with vitavax @ 2.5 per kg seed. A mixture of Trichoderma viride and vitavax effectively hinder further infections (by 98.4%). Mix Urea @ 2 - 3% with Zineb at first and second sprays. Apply aqueous Neem Leaf extracts. Fungicide and hot water treatments have been used to reduce seedborne inoculum. Pathogens Trichoderma viride (2%) and T. harzianum(2%), Aspergillus humicola and Bacillus subtilis are often used to control further outbreak of the disease.",
     "chemical_control": " Always consider an integrated approach with preventive measures together with biological treatments, if available. A. triticina can be controlled through the application of fungicides with a 75% reduction in disease severity and an increase in plant yield. Apply fungicides such as mancozeb, ziram, zineb (0.2%), thiram, fytolan, propineb, chlorothalonil and nabam, propiconazole (0.15%), tebuconazole, and hexaconazole (0.5%). To prevent developing tolerance to mancozeb, apply a combination of fungicides. ",
     "cause": "Damage is caused by the fungus Alternaria triticina. Infection is both soilborne and seedborne and can be dispersed by wind. Infected seeds may be smaller than healthy ones and are often shriveled, with brown discoloration. Plants are affected when planted into infected soils or getting in contact with infested crop residues (e.g., by rain splashes or by direct contact). The fungus survives reportedly two months in infected debris on the soil surface during summer, but four months in buried debris. Susceptibility increases with plant age as A. triticina is unable to infect young wheat seedlings which are under about four weeks of age. The symptoms are usually not evident until the plants are about seven weeks of age. Temperatures of 20 - 25°C are optimal for infection and disease development. Under severe conditions, yield losses may exceed 80%.",
     "prevention": "Use less-susceptible varieties as well as healthy seeds from certified sources. | Practice the best hygiene measures. | Infected crops should be destroyed by burning and ploughing. | This will prevent aerial dispersal of the pathogen via infected crop residues. | Herbicides can be used to destroy the infected crops. | Infested fields should not be resown for a minimum of two years. | Disposable equipment, infected plant material or soil should be disposed of by autoclaving, high-temperature incineration or deep burial. | Any equipment removed from the site for disposal should be double-bagged. | Deeply incorporate crop debris after harvest to reduce pathogen survival and primary inoculum that could incite future epidemics. | Promote air movement within the canopy by planting rows parallel to prevailing wind direction, reducing plant population and planting on wider row spacing. | Avoid irrigating near dusk and following overhead irrigation, if possible to reduce periods of leaf wetness. | Apply adequate fertilizers.",
-    "summary": "The disease appears when wheat plants are 7-8 weeks old. | The condition becomes severe when the crop is mature. | Small, oval, discolored lesions can be found scattered on the leaves in an irregular manner. | As the lesions enlarge, they become dark brown to grey and irregular in shape. | The leaves eventually dry.",
+    "summary": "The disease appears when wheat plants are 7-8 weeks old. | The condition becomes severe when the crop is mature. | Small, oval, discolored lesions can be found scattered on the leaves in an irregular manner. | As the lesions enlarge, they become dark brown to grey and irregular in shape.",
     "videoUrl": "https://plantix.net/vi/library/plant-diseases/100307/alternaria-leaf-blight/"
   },
   {
@@ -95,9 +95,9 @@
     "scientific_name": "Podosphaera pannosa",
     "disease_type": "Fungal",
     "listImage": [
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342151.jpg",
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342152.jpg",
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342153.jpg"
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Mildew_Podosphaera_mors-uvae1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Mildew_Podosphaera_mors-uvae2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Mildew_Podosphaera_mors-uvae3.jpg"
     ],
     "symptoms": "This disease is characterized by the dense, persistent and grayish patches of fungal growth on leaves, stems, inflorescences and fruits. Over time, the powdery coating causes the distortion and discoloration of leaves and premature leaf fall in severe cases. Buds often fail to unfold normally or be destroyed. Twigs may show a stunted growth. Fruits develop discoloration and lesions that prevents further normal development. In case of severe infections, the skin eventually turns dark brown, with the surface becoming leathery and hard, often subjected to cracks. Hosts include apricot, sour cherries and peach.",
     "organic_control": "Products based on the antagonist fungus Ampelomyces quisqualis and the bacteria Bacillus subtilis have been used as biological agents to control Podosphaera pannosa. Several organic fungicides are also available in the form of horticultural oils, neem oil, jojoba oil, potassium bicarbonate and bicarbonate of soda.",
@@ -113,9 +113,9 @@
     "scientific_name": "Venturia inaequalis",
     "disease_type": "Fungal",
     "listImage": [
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342151.jpg",
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342152.jpg",
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342153.jpg"
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Venturia_inaequalis1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Venturia_inaequalis2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Venturia_inaequalis3.jpg"
     ],
     "symptoms": "The first visible symptoms of apple scab appear in spring as small, circular, olive-green spots on the leaves, typically along the main veins. As these spots spread, they turn brown-black and eventually merge into large necrotic areas. Infected leaves often become distorted and fall prematurely, leading to a sparse canopy in severe cases. On shoots, the affected areas swell and crack, providing entry points for further infection. On fruits, brown to black, circular lesions develop on the surface. These lesions enlarge over time, become raised and rough, restricting fruit expansion and causing misshapen fruits with cracked skin exposing the inner flesh. Light exposure does not significantly affect fruit quality. Additionally, these scab spots can serve as entry points for secondary pathogens and rot development within the fruit flesh, reducing fruit quality and storage life.",
     "organic_control": "If this disease has been severe in previous seasons, applying copper-based fungicides in winter can help prevent fungal development on the tree. Sulfur applications may provide limited control against apple scab. However, sulfur-containing and pyrethrin-based solutions are viable organic options for managing this disease during the growing season.",
@@ -130,9 +130,9 @@
     "scientific_name": "Uromyces appendiculatus",
     "disease_type": "Fungal",
     "listImage": [
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342151.jpg",
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342152.jpg",
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342153.jpg"
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Uromyces_appendiculatus1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Uromyces_appendiculatus2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Uromyces_appendiculatus3.jpg"
     ],
     "symptoms": "The first symptoms are small, pale yellow spots on the upper surface of older leaves, typically appearing on the underside. As the disease progresses, these spots develop into raised, brownish-black pustules that rupture and release spores. The affected leaves may yellow, wilt, and fall prematurely. The disease can also affect stems and pods, leading to reduced yield and quality.",
     "organic_control": "Biological control agents such as Bacillus subtilis, Arthrobacter, and Streptomyces species have shown significant effectiveness in managing this disease.",
@@ -148,9 +148,9 @@
     "scientific_name": "Puccinia hordei",
     "disease_type": "Fungal",
     "listImage": [
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342151.jpg",
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342152.jpg",
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342153.jpg"
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_hordei1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_hordei2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_hordei3.jpg"
     ],
     "symptoms": "The first symptoms appear in late winter to spring when small, round, orange-brown nodules are scattered randomly on the upper surface of the leaves. These contain spores that will increase the infection process between barley plants. Occasionally, these nodules also develop on the stems, leaf sheaths, and panicles. They are often surrounded by a yellow or green halo. Later in the season (late spring or early summer), small black nodules gradually develop on the underside of the leaves. These new sacs contain spores that will later survive on root shoots or alternative host plants to restart the cycle. Unlike the light brown nodules, the black nodules do not peel off to the fingers when rubbed.",
     "organic_control": "To date, there is no biological control solution for barley brown rust. Please contact us if you know of any.",
@@ -166,9 +166,9 @@
     "scientific_name": "Phytophthora infestans",
     "disease_type": "Fungal",
     "listImage": [
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342151.jpg",
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342152.jpg",
-      "https://content.peat-cloud.com/w400/alternaria-leaf-blight-wheat-1581342153.jpg"
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Phytophthora_infestans1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Phytophthora_infestans2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Phytophthora_infestans3.jpg"
     ],
     "symptoms": "Dark brown spots develop on the leaves starting from the tip or edges. In humid climates, these spots become baked-out lesions. A white fungal coating may be visible on the underside of the leaves. As the disease progresses, the entire leaf necrotizes, turns brown, and dies. Similar lesions develop on the stem and petioles. Potato tubers have grayish-green spots on the skin, and the flesh also turns brown, rendering them inedible. The rotting condition of infected fields emits a characteristic odor.",
     "organic_control": "Use copper-based fungicides before dry weather. Spraying leaves with organic coatings can also prevent infection.",
