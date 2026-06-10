@@ -501,5 +501,184 @@
     "prevention": "Install effective drainage systems to avoid waterlogging. Plant disease-resistant varieties, if available locally. Regularly monitor fields for disease symptoms. Avoid excess nitrogen fertilization and always apply in multiple batches. Adjust fertilization regimens with high levels of phosphorus and potassium to reduce the likelihood of plant disease. Avoid watering during very hot times of the day as water can accumulate inside the leaf ring. In areas endemic, farmers should incorporate green manure into the soil before planting corn. Incorporate crop residue into the soil after harvest to break the disease cycle.",
     "summary": "Discoloration appears in the leaves and stem sheaths (leaf bark), then appears in the stem. A foul odor develops and the top of the plant becomes easily separated from the rest of the plant. The inside of the stem becomes discolored and rots.",
     "videoUrl": "https://youtu.be/Z8OsfJI8WiU?si=t5tYTFjRfJ4nCbiT"
+  },
+  {
+    "id": "29",
+    "title": "Leaf spot disease in Okra",
+    "scientific_name": "Pseudocercospora abelmoschi",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Pseudocercospora_abelmoschi1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Pseudocercospora_abelmoschi2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Pseudocercospora_abelmoschi3.jpg"
+    ],
+    "symptoms": "Thoạt đầu, các đốm không rõ nét, màu xanh ô-liu, xuất hiện ở mặt dưới lá, đặc biệt là những lá già gần với mặt đất. Quá trình hình thành của nấm mốc từ màu nâu nhạt ngả sang màu xám có thể diễn ra trên bề mặt lá bị nhiễm bệnh. Khi bệnh tiến triển, các đốm ấy hoại tử dần và có thể xuất hiện ở mặt trên lá. Cuối cùng, những lá bị nhiễm bệnh khô dần và héo rũ. Thân và quả cũng có thể chịu ảnh hưởng với những triệu chứng tương tự như thế. Khi nhiễm bệnh này, cây có thể rụng lá hoàn toàn. Các triệu chứng nêu trên có thể gây ngộ nhận là cây nhiễm bệnh do loài C. malayensis gây ra.",
+    "organic_control": "Cho đến nay, chúng tôi chưa biết bất kỳ biện pháp sinh học nào có thể đối phó với bệnh hại này. Nếu bạn biết bất kỳ phương pháp nào có thể giảm thiểu khả năng lây nhiễm hay mức độ nghiêm trọng của các triệu chứng của bệnh này, xin vui lòng liên hệ với chúng tôi.",
+    "chemical_control": " Ở mọi trường hợp, nên xem xét khả năng dung hợp các biện pháp phòng ngừa cùng với các biện pháp kiểm soát sinh học có thể thực hiện được. Phun thuốc diệt nấm vào mặt dưới lá vào buổi chiều tối. Sử dụng các loại thuốc diệt nấm mang tính phòng ngừa như copper oxychloride 0.3%, Mancozeb 0.25% hay Zineb 0.2% vào thời điểm một tháng sau khi gieo trồng và phun tiếp cách hai tuần một lần, tùy thuộc mức độ nghiêm trọng của bệnh. Sử dụng thuốc Carbendazim 50 DF 0.1% với tần suất 15 ngày một lần cũng cho thấy kết quả khống chế bệnh đáng kể. ",
+    "cause": "Các đốm lá nêu trên phát sinh từ loài nấm có tên khoa học là Pseudocercospora abelmoschi. Loài nấm này sinh tồn qua mùa đông trên các tàn dư cây trồng bị nhiễm bệnh trong đất, từ đó lây nhiễm vào rễ và những lá ở tầng thấp của cây đậu bắp. Trên cây ký chủ, bào tử nấm phát tán thứ cấp nhờ gió, mưa, nước tưới và các công cụ làm vườn. Các đốm lá thường xuất hiện trong thời tiết ẩm ướt (thời kỳ đậu bắp trổ hoa) vì loài nấm này phát triển mạnh trong thời tiết nóng ẩm.",
+    "prevention": "Chỉ sử dụng nguyên liệu hạt giống đã được chứng nhận để gieo và bảo đảm khoảng cách hợp lý giữa các cây khi trồng, sao cho lá có thể khô nhờ thoáng khí. | Giám sát vườn trồng thường xuyên, loại bỏ và tiêu hủy những lá bị nhiễm bệnh một cách phù hợp (đốt sạch chúng là một lựa chọn hợp lý). | Nên quản lý tốt cỏ dại trong vườn. | Tránh cho cây gặp phải những áp lực về điều kiện sống bằng cách tưới nước và bón phân đầy đủ. | Nên tưới cây vào buổi sáng thay vì tưới vào lúc chiều tối và không nên tưới phun từ trên cao cũng như tránh trồng đậu bắp trên các khu vực đất thoát nước kém. | Nên xem xét luân canh đậu bắp với các loài cây trồng không phải là ký chủ của bệnh này.",
+    "summary": "Các đốm góc cạnh, đen như muội than, xuất hiện ở mặt dưới lá. | Lá khô, héo rũ và bạc màu dần. | Thân và quả cũng bị ảnh hưởng.",
+    "videoUrl": "https://youtu.be/C-RzLeccLHU?si=Trz1Iwt14rERfBPH"
+  },
+  {
+    "id": "30",
+    "title": "Leaf spot disease in corn",
+    "scientific_name": "Cochliobolus lunatus",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Cochliobolus_lunatus1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Cochliobolus_lunatus2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Cochliobolus_lunatus3.jpg"
+    ],
+    "symptoms": "At first, dead leaf spots with a surrounding light-colored halo, which can reach a diameter of 0.5 cm, appear on the leaves. Severely infected plants may have completely yellow leaves. Lesions and mold appear on the seeds, causing the seeds to not germinate or the seedlings to die. In infected plants, leaves have unusual colors along with necrotic areas. Infected seeds may be discolored, with lesions, mold and rot.",
+    "organic_control": "To date, we are not aware of any biological measures that can deal with this disease. If you know of any methods that can reduce the likelihood of infection or the severity of symptoms of this disease, please contact us.",
+    "chemical_control": " In all cases, the possibility of integrating preventative measures with possible biological control measures should be considered. Fungicides such as Mancozeb, Chlorothalonil, and Maneb can be used to deal with this disease.",
+    "cause": "The above symptoms come from a fungus with the scientific name C. lunatus. Fungal infection can occur because spores and sporangia of the fungus are dispersed by wind, rainwater and irrigation water. This harmful fungus can also survive in soil thanks to infected crop residue. This disease often occurs in hot and humid areas and the optimal temperature for fungal growth is 24 -30°C.",
+    "prevention": "Use disease-free seeds for sowing and choose existing disease-resistant varieties for planting. | Harvest early to reduce the number of mold-infected seeds. | Remove and destroy crop residue after each growing season.",
+    "summary": "Small spots with halos or areas of dead tissue appear on leaves. | Plants are discolored, seeds are hollow and have lesions.",
+    "videoUrl": "https://youtu.be/vWhDpSi_WF8?si=0WuNwJCv0VLjgnYf"
+  },
+  {
+    "id": "31",
+    "title": "Olive leaf spot disease",
+    "scientific_name": "Venturia oleagina",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Venturia_oleagina1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Venturia_oleagina2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Venturia_oleagina3.jpg"
+    ],
+    "symptoms": "In late spring, black spots (commonly known as peacock spots) appear on the upper surface of leaves in the lower canopy. These spots can also appear on stems and fruits, but most commonly on the leaf surface. The underside of leaves does not show any obvious symptoms. As the season progresses, black spots develop and can cover a sizable portion of the leaf (0.25 and 1.27 cm in diameter). Gradual yellow halo appear around these spots and extend over the entire leaf. The plant may lose its leaves and in severe cases, the blooms may also be damaged, leading to a significant reduction in crop yield.",
+    "organic_control": "Spray plant leaves with organic copper compounds such as Bordeaux mixture after fruit harvest in autumn and again in late winter in case of frequent autumn rains.",
+    "chemical_control": " Where possible always consider using a combination of preventative measures with biological treatments. Spray copper compounds (e.g. copper hydroxide, copper oxychloride, tribasic copper sulfate and copper oxide) on the tree's foliage after fruit harvest in the fall and again in late winter if the environment is too wet.",
+    "cause": "The disease is caused by the fungus Fusicladium oleagineum, which thrives in low-lying areas or in environments that receive little sunlight or have closed tree canopies. The fungus requires mild to low temperatures and free foliar moisture to germinate and, therefore, it often results in infection during rainy periods in the fall, winter and spring. Fog, dew and high humidity are important factors contributing to the spread of the disease. In contrast, hot and dry conditions in summer cause dormancy and eventual dormancy, which is indicated by a change in the color of the spots, which turn white and crust over. Young leaves are more susceptible to the disease than older leaves. The preferred temperature range is 14–24°C plant susceptibility. For example, excess nitrogen and calcium deficiency are thought to weaken plant defenses.",
+    "prevention": "Monitor cultivation regularly for symptoms of the disease. | Avoid over-fertilizing with nitrogen and calcium deficiency. | Choose disease-resistant or tolerant varieties, if available in your area.",
+    "summary": "Dark, black spots on the upper surface of leaves, gradually increasing. | A yellow halo surrounds each spot. | Leaf drop, branch death, and failure to bloom may occur.",
+    "videoUrl": ""
+  },
+  {
+    "id": "32",
+    "title": "Orange rust disease in sugarcane",
+    "scientific_name": "Puccinia kuehnii",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_kuehnii1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_kuehnii2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_kuehnii3.jpg"
+    ],
+    "symptoms": "The lesions begin to appear as small necrotic spots on the leaves. The spots then develop into brownish-orange lesions measuring up to 4 mm long and 3 mm wide. The lesions are often concentrated at the base of the leaves and appear in clusters. Orange fungal spores are produced on the underside of the leaves. Severely affected leaf tissue will die, leading to the leaf canopy shrinking. In severe cases of infection Critically, necrotic spots also appear on the leaf sheath, causing the entire foliage to turn brown when viewed from a distance.",
+    "organic_control": "To date, we are not aware of any biological measures that can effectively deal with this disease. If you know of any methods that effectively reduce the impact or severity of disease symptoms, please contact us.",
+    "chemical_control": " In all cases, the possibility of integrating preventative measures with possible biological control measures should be considered. The use of fungicides can contribute to reducing yield losses. Spraying of Strobilurin fungicide products such as metconazole and propiconazole can be applied in multiple applications at 3 -4 week intervals.",
+    "cause": "This disease is caused by the fungus Puccinia kuehnii, spread through rust spots where the fungus produces spores that are extremely small, light and able to withstand harsh environmental conditions and easily disperse quickly at close distances as well as spread by wind and water. Spores of this fungus can also survive on crop residue in the soil. The disease is often detected in the summer and early autumn with high humidity and warm environmental conditions. Mature sugarcane plants (more than 6 months old) are more susceptible to the disease. Development and spread of the disease are limited when temperatures exceed 30°C and humidity is between 70 and 90%. Strong winds and continuous overcast weather make the disease worse.",
+    "prevention": "Choose to plant disease-resistant varieties. | Implement a good hygiene regime for the sugarcane field or garden, such as removing crop residue. | Regularly monitor the sugarcane field and garden to detect early signs of disease.",
+    "summary": "Brownish orange lesions appear on the plant. | Fungal spores appear on the underside of the leaves. | Lesions also appear on the leaf sheath.",
+    "videoUrl": ""
+  },
+  {
+    "id": "33",
+    "title": "Rust disease damages beans",
+    "scientific_name": "Uromyces pisi",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Uromyces_pisi1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Uromyces_pisi2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Uromyces_pisi3.jpg"
+    ],
+    "symptoms": "Brown patches formed by spores appear on both sides of the leaves as well as on the stem. In dry weather, these spore patches gradually spread. The leaves become deformed and the entire plant grows weakly. However, the harvest yield only decreases slightly.",
+    "organic_control": "Damage is mainly detected in the late state of the disease. In most cases, treatment is not necessary because the loss of revenue is insignificant.",
+    "chemical_control": "Fungicides containing Tebuconazole can be used.",
+    "cause": "The fungus that causes this disease overwinters on fava beans (also known as vetch, millet or English beans), flower beans and euphorbias. From there, it spreads to the bean plant in the spring. In the winter, the fungus switches to a new host plant.",
+    "prevention": "Remove all alternative host plants in adjacent areas, such as Vicia or Lathyrus species .",
+    "summary": "Brown patches formed by fungal spores appear on leaves and stems. | Leaves are deformed. | The plant's ability to grow is impaired.",
+    "videoUrl": "https://youtu.be/kmUyi632dcE?si=W6q2Lb90EK_7XHpV"
+  },
+  {
+    "id": "34",
+    "title": "Rust disease damages peanuts",
+    "scientific_name": "Puccinia arachidis",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_arachidis1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_arachidis2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_arachidis3.jpg"
+    ],
+    "symptoms": "Peanut rust appears as tiny round orange-brown pimples (rust), usually found on the underside of leaves. These spots are often surrounded by a yellow halo. This condition significantly impairs leaf and plant growth. As the disease progresses, heavily infected leaves become covered with rust-colored pimples on both sides, the leaves turn yellow and look 'rusty', eventually with curled leaves. Reddish-brown (and later black) elongated bumps may also appear on peanuts, stems and leaf stalks. This disease can significantly reduce fruit yield and seed oil quality.",
+    "organic_control": "Biological agents can contribute to controlling the infection process. Sage and Potentilla erecta extracts protect leaves against fungal growth. Other plant extracts such as flaxseed oil and peanut oil are also effective in reducing disease incidence.",
+    "chemical_control": " If possible, always consider a combination of preventive measures and biological treatments. Chemical treatments may not be effective in the late stages of disease development. If fungicides are necessary, spray with products containing mancozeb, propiconazole or chlorothalonil (3 g/liter of water). Spraying should be started immediately after the first signs of infection appear and should be repeated later. 15 days. ",
+    "cause": "The peanut rust pathogen exists in crop residues in the soil or in other legumes that serve as alternative host plants. Primary infection comes from spores produced during the reproductive stage of the fungus on the underside of leaves. Secondary infection occurs through wind-dispersed spores. Spots can spread rapidly in environmental conditions favorable for fungal growth, such as warm temperatures (21 to 26°C) and wet, cloudy weather (fog or heavy night dew). They also inhibit shoot and root growth, leading to stunted growth. High levels of phosphate in the soil seem to slow down the development of rust.",
+    "prevention": "Use seeds from healthy plants or from certified sources. | Choose to plant disease-resistant varieties. | Avoid high humidity between plants by wide planting distances. | Control weeds and naturally occurring plants in and around the field. | Avoid planting alternative host species around the field. | Apply large amounts of phosphate fertilizer to slow the development of rust. | Remove or destroy infected plants and field debris. garden by burning or plowing them. Should rotate crops that are not hosts to this harmful fungus every three to four years.",
+    "summary": "Rust-colored pimples appear on the underside of the leaf, surrounded by a yellow halo. | Severely infected leaves are covered with pimples on both sides. | Leaves turn yellow and curl.",
+    "videoUrl": "https://youtu.be/ibpPxl0Fvek?si=13m06TxfSLuC7dYS"
+  },
+  {
+    "id": "35",
+    "title": "Rust disease in soybeans",
+    "scientific_name": "Phakopsora pachyrhizi",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Phakopsora_pachyrhizi1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Phakopsora_pachyrhizi2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Phakopsora_pachyrhizi3.jpg"
+    ],
+    "symptoms": "Symptoms of soybean rust disease typically start appearing on the lower parts of the plant and gradually move upward, primarily affecting young leaves. The first signs appear during the flowering stage, manifesting as small red-brown spots on the underside of leaves, usually along the leaf veins. Over time, these spots increase in size and number, turning brown-red or black. As the disease progresses, the spots are covered by raised fungal structures that can be seen with the naked eye. Some of these structures form clusters and create irregular brown patches, surrounded by a yellow ring. At this stage, the spots appear on both sides of the leaves as well as on leaf stalks and stems. The plant may experience early leaf drop.",
+    "organic_control": "Use products containing essential oils such as eucalyptus (Corymbia citriodoria) at 1%, lemongrass (Cymbopogon nardus) at 0.5%, and thyme (Thymus vulgaris) at 0.3% to reduce the severity of the disease.",
+    "chemical_control": "Always consider combining preventive measures with biological treatments where possible. Selecting the right fungicide and applying it at the correct time is crucial for controlling this fungus. Use fungicides containing hexaconazole (2 ml/liter of water) and propiconazole (1 ml/liter of water). It is recommended to use fungicides containing maneb zinc sulfide regularly throughout the growing season.",
+    "cause": "Soybean rust is a highly contagious disease caused by the fungus Phakopsora pachyrhizi. This fungus does not survive on seeds and requires living plant tissue to grow and complete its life cycle. When there are no soybean plants available for parasitism, this fungus needs alternative host plants to survive. Spores are produced within fungal structures on plants, spreading from one plant to another via wind and can directly penetrate plant cells without going through stomata or wounds on leaf tissues. The disease develops favorably under conditions where leaves remain wet for 6 to 12 hours continuously, temperatures ranging from cool to warm (16 to 28°C), and high humidity (above 75%).",
+    "prevention": "Choose varieties with good resistance or tolerance to the disease. | Plant early in the season and, if possible, select early-maturing varieties. | Alternatively, plant later in the season to take advantage of drier periods. | Plant crops with wider row spacing to improve air circulation and facilitate drying of foliage. | Regularly monitor crops and remove intermediate host plants. | Manage soil fertility, particularly potassium and phosphorus levels.",
+    "videoUrl": "https://youtu.be/_wWSVOD4lmc?si=qH2XBTso1sbLBdoX"
+  },
+  {
+    "id": "36",
+    "title": "Rust disease is commonly found in corn",
+    "scientific_name": "Puccinia sorghi",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_sorghi1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_sorghi2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_sorghi3.jpg"
+    ],
+    "symptoms": "Spotting appears on both sides of the leaf and slowly develops into small, brown, slightly raised spots. These spots mainly grow longer and then turn into yellow-brown, powdery, patches scattered on the top and bottom of the leaves. The color may change to black as the plant matures. In contrast to other rust diseases, symptoms do not usually appear on other parts of the plant, such as the stem, However, the stems tend to grow weak, soft and brittle. Young leaf tissue is more susceptible to fungal infection than mature leaves. Plants infected in the early stages may exhibit yellowing and wilting of leaves, leading to high yield loss if upper leaves are affected.",
+    "organic_control": "To date there are no alternative treatments against Puccinia sorghi. Please contact us in case you know of any methods that can help fight this disease. We look forward to hearing from you.",
+    "chemical_control": " Where possible, always consider a hybrid solution between preventative measures and biological treatments. Fungicides can be beneficial when used on susceptible varieties. Apply foliar fungicides early in the season if rust is likely to spread rapidly due to weather conditions. Many fungicides are available to control rust. Products containing mancozeb, pyraclostrobin, pyraclostrobin + metconazole, pyraclostrobin + fluxaccoroxadad, azoxystrobin + propiconazole, trifloxystrobin + prothioconazole can be used to control the disease: Spray mancozeb @ 2.5 g/l as soon as the spots appear and repeat at 10-day intervals until flowering.",
+    "cause": "The disease is caused by the fungus Puccinia sorghi. The fungus overwinters on an alternative host plant (a species of Sorrel) and releases spores in the spring. The spores can be transported over long distances by wind and rain. They initiate the infection process when they land on leaves. Secondary infection from one plant to another can also occur by wind and rain. Disease development is accelerated when relative humidity is high (close to 100%), dew, rain and cool temperatures between 15 and 20°C (may vary by region). In turn, hot, dry weather will slow or hinder fungal growth and disease incidence. This is a problem for fields producing seeds and sweet corn theater.",
+    "prevention": "Plant locally available disease-resistant varieties. | Plant early to avoid optimal conditions for fungal infection. | Use shorter-season varieties that mature earlier. | Monitor fields regularly for signs of disease, even more frequently during overcast and cloudy weather. | Ensure balanced fertilization along with nitrogen fertilization. | Rotate crops with crops that are not susceptible to disease.",
+    "summary": "Lesions begin as leaf spots that develop into small light yellow-brown spots.\nFound on both the top and bottom of leaves\nThe spots turn from dark brown to black later in the season.",
+    "videoUrl": "https://youtu.be/hpYFbJwA05E?si=rNB95kgNroTR69wZ"
+  },
+  {
+    "id": "37",
+    "title": "Rust disease on grapes",
+    "scientific_name": "Phakopsora euvitis",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Phakopsora_euvitis1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Phakopsora_euvitis2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Phakopsora_euvitis3.jpg"
+    ],
+    "symptoms": "At first, orange-brown powdery masses can be found on the underside of the leaves. Later, small yellowish-brown lesions appear on both sides of the leaves. As the disease progresses, the orange masses turn dark brown and then almost black and form oblong lesions. When the infection is severe, the entire plant turns yellow or brown, and eventually the leaves fall prematurely. In the following season, the buds develop poorly, causing the entire vine to grow red. This disease can cause poor bud growth, reduce fruit quality and cause harvest losses.",
+    "organic_control": "Spray a sulfur containing fungicide once on the leaves. Avoid spraying during rainy weather to ensure the fungicide can effectively target the pathogen.",
+    "chemical_control": " Always consider using a combination of preventative measures combined with biological treatments, if applicable. Use of fungicides containing Bordeaux mixture, aptafol, difolatan, propiconazole, tebuconazole or azoxystrobin has been found to be effective in significantly reducing pathogen occurrence. Grapevine rust symptoms can be controlled by applying 3-4 applications of Baycor (0.1%) every two weeks during the following growing seasons",
+    "cause": "The above symptoms are caused by the fungus Phakopsora vitis. Fungal spores survive on crop residue and alternative host plants, dispersed by the wind. The rust pathogen develops in spots present on the leaf surface in the lower leaf layer in the form of small fine orange particles. Orange-yellow summer spore masses are produced on the underside of the leaves, with dark necrotic spots on the surface. Temperature levels above 20°C and the Humid weather conditions are favorable factors for the disease to develop. Fungal spores can be easily spread by wind and air currents.",
+    "prevention": "Use resistant varieties, if available. | Monitor vineyards regularly for symptoms of rust on the underside of leaves. | Collect and burn infected plant parts. | Prune trellises to facilitate air circulation.",
+    "summary": "Orange-brown powdery masses appear on the underside of leaves. | Premature leaf drop.",
+    "videoUrl": "https://youtu.be/z_mBlgZv1Po?si=4mVu06c2E2RO6zCc"
+  },
+  {
+    "id": "38",
+    "title": "Southern rust disease",
+    "scientific_name": "Puccinia polysora",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_polysora1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_polysora2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Puccinia_polysora3.jpg"
+    ],
+    "symptoms": "Southern rust disease appears as small, reddish-brown spots on the upper surface of older leaves, scattered on the lower surface. These spots are powdery, circular to oval, raised, and dense. In later stages of the disease, they become dense and may also appear on young leaves, leaf sheaths, corn leaves, and plant stems. Yellow chlorotic spots and brown necrotic areas are also present on the leaves. Young leaves are more susceptible to damage than older leaves, making crops planted later more prone to infection. Poor plant health leads to stem rot and breakage, and poor seed quality. The disease's spread potential can cause significant yield losses.",
+    "organic_control": "Apply water extract of snake plant (Mikania glomerata) to inhibit spore germination. The extract can be prepared by soaking the entire snake plant leaves in distilled water and storing the solution in a refrigerator for 24 hours. Then filter the extract through filter paper, dilute in water until a 5% concentration is achieved, and apply to the leaves.",
+    "chemical_control": "It is important to consider an integrated approach between preventive measures and biological control methods. The application of fungicides cannot cure already infected parts, so it can only be used preventively to avoid spread among healthy plants. Timely use of fungicides is also crucial, considering factors such as plant age, disease incidence, and weather conditions. Fungicides based on mancozeb, cyproconazole, flutriafol + fluoxastrobin, pyraclostrobin, pyraclostrobin + metconazole, azoxystrobin + propiconazole, trifloxystrobin + prothioconzole can reduce the impact of the disease. For example, treatment could be: Spray mancozeb @ 2.5 g/l immediately when spots appear and repeat every 10 days until flowering.",
+    "cause": "Southern rust disease is a fungal disease caused by Puccinia polysora, commonly occurring in tropical to subtropical regions during later stages of plant development. The fungus is a facultative parasite, meaning it can only survive on host plants rather than in soil or seeds. Therefore, infection during this season may not necessarily increase the disease incidence in subsequent seasons. Wind-dispersed spores from fields or other areas are the primary source of infection. These spores then spread from one plant to another via wind and water under optimal conditions of temperatures between 27°C and 33°C with high humidity. Early fungal infection during planting can lead to rapid and severe damage.",
+    "prevention": "Use resistant or tolerant varieties available locally. | Avoid planting corn at the end of the season. | Monitor fields for any signs of disease. | Ensure balanced fertilization to enhance plant health. | Avoid overwatering during post-emergence growth stages.",
+    "summary": "Small reddish-brown spots with powdery appearance develop densely on the upper surface of older leaves. | Later on, they begin to appear on young leaves and other parts of the plant. | Yellow chlorotic spots and brown necrotic areas are also present on the leaves. | Poor plant health leads to stem rot and breakage, resulting in poor seed quality.",
+    "videoUrl": "https://youtu.be/M9ZCeCGfWfA?si=VB9EZnyMz_owe2XE"
   }
 ]
