@@ -554,7 +554,7 @@
     "cause": "The disease is caused by the fungus Fusicladium oleagineum, which thrives in low-lying areas or in environments that receive little sunlight or have closed tree canopies. The fungus requires mild to low temperatures and free foliar moisture to germinate and, therefore, it often results in infection during rainy periods in the fall, winter and spring. Fog, dew and high humidity are important factors contributing to the spread of the disease. In contrast, hot and dry conditions in summer cause dormancy and eventual dormancy, which is indicated by a change in the color of the spots, which turn white and crust over. Young leaves are more susceptible to the disease than older leaves. The preferred temperature range is 14–24°C plant susceptibility. For example, excess nitrogen and calcium deficiency are thought to weaken plant defenses.",
     "prevention": "Monitor cultivation regularly for symptoms of the disease. | Avoid over-fertilizing with nitrogen and calcium deficiency. | Choose disease-resistant or tolerant varieties, if available in your area.",
     "summary": "Dark, black spots on the upper surface of leaves, gradually increasing. | A yellow halo surrounds each spot. | Leaf drop, branch death, and failure to bloom may occur.",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/lxoHEtV_Sw0?si=U7gGEbRzwLWbAF3A"
   },
   {
     "id": "32",
@@ -680,5 +680,185 @@
     "prevention": "Use resistant or tolerant varieties available locally. | Avoid planting corn at the end of the season. | Monitor fields for any signs of disease. | Ensure balanced fertilization to enhance plant health. | Avoid overwatering during post-emergence growth stages.",
     "summary": "Small reddish-brown spots with powdery appearance develop densely on the upper surface of older leaves. | Later on, they begin to appear on young leaves and other parts of the plant. | Yellow chlorotic spots and brown necrotic areas are also present on the leaves. | Poor plant health leads to stem rot and breakage, resulting in poor seed quality.",
     "videoUrl": "https://youtu.be/M9ZCeCGfWfA?si=VB9EZnyMz_owe2XE"
+  },
+  {
+    "id": "39",
+    "title": "Ten bean rust disease",
+    "scientific_name": "Uromyces phaseoli",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Uromyces_phaseoli1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Uromyces_phaseoli2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Uromyces_phaseoli3.jpg"
+    ],
+    "symptoms": "Symptoms initially appear as small, round, reddish-brown spots growing between growing white fungal spots, often on the underside of leaves. Pustules may appear in small groups and then merge into larger areas on the leaf blade. Additionally, straight, dark brown areas appear later in the season. Severe infections can affect the upper leaf surface, leading to entire leaf coverage. Leaves become dry, shriveled and fall off. At this stage of the disease, leaf petioles, bark and stems may also be affected. Severe defoliation leads to severe yield loss.",
+    "organic_control": "Botanical extracts of sage (Salvia officinalis) and Potentilla erecta work well as a protective measure against fungal growth once signs are detected.",
+    "chemical_control": " Always consider an integrated approach of preventative measures along with biological treatments where available. Chemical treatment may not be feasible if the fungal infection is detected at later stages. If fungicides are required, products containing mancozeb, propiconazole, copper or sulfur compounds can be used as foliar spray solutions (usually 3g/l of water). Start application immediately after the first appearance of the disease and repeat after 15 days. ",
+    "cause": "The pathogen survives in crop residues in the soil or on alternative hosts. Primary fungal infection is caused by spores splashed from the soil onto older leaves at the base of plants. Secondary spread from field to field is by wind. Initiation of fungal infection and dispersal are promoted by warm temperatures (21 to 26°C), wet and cloudy weather combined with periods of dense fog during the night.",
+    "prevention": "Use seedlings from healthy plants or certified pathogen-free seeds. | Plant tolerant or resistant cultivars if available in your area. | Avoid planting alternative hosts in your growing area. | Remove alternative host plants and weeds from your fields. | Observe and remove infected plant parts. | Be sure to rotate crops with non-host plants every 3 -4 years. |. Plow deeply and remove plant debris by burning or plowing it.",
+    "summary": "Small, round reddish-brown spots appear on the underside of leaves. | The spots then merge into larger areas and appear above the leaf surface. | Straight, dark brown areas appear later in the season. | The disease can be seen on petioles, bark and stems. | Leaves dry, shrivel and fall, leading to defoliation and reduced yield.",
+    "videoUrl": "https://youtu.be/ZmFTwnI-Brk?si=Dm8-NQ7qCy6MEB8Z"
+  },
+  {
+    "id": "40",
+    "title": "Corn stem rot disease",
+    "scientific_name": "Gibberella fujikuroi",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Gibberella_fujikuroi1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Gibberella_fujikuroi2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Gibberella_fujikuroi3.jpg"
+    ],
+    "symptoms": "The above symptoms can vary depending on environmental conditions and severity of the disease. Infected trees can be easily detected based on abnormal height, pale, stunted and long growth. Infected seeds have lesions, rot and deformity. Infected tree trunks have discolored, moldy, barren or curled bark. Infected leaves are abnormally colored and musty. Infected tips have Lesions, black or brown scabs and rotten corn. All infected plants show signs of falling and premature aging.",
+    "organic_control": "Spray neem extracts to control the population of disease-carrying insects. Use biological control agents such as antagonistic fungi of the genus Trichoderma spp. to suppress pathogens. Pseudomonas fleurosense bacteria are also effective in controlling stalk rot in corn. Both ingredients can be used as seed treatments as well as soil fertilizers when mixed with 250 kg of manure (FYM).",
+    "chemical_control": " In all cases, the possibility of integrating preventative measures with possible biological control measures should be considered. Treat the seeds with a 50% solution of mancozeb and 25% carbendazim before sowing.",
+    "cause": "This disease arises from a fungus that exists in the soil with the scientific name Gibberella fujikuroi. The pathogen is fungal spores spread by wind and rain, penetrating corn cobs through lesions. Plants are infected from the time the seeds germinate until the male flowers emerge, but symptoms only appear clearly in the later stages. This pathogen survives in seeds, infected crop residue left over from the previous crop or on alternative hosts such as Grass. The disease spreads when fungal spores infect the plant through the corn stalks, roots and stalks. Fungal spores penetrate the corn cob mainly through damage caused by insect feeding activities. They can also gradually invade the plant starting from the roots and moving up the stem through the growth process in warm (26 -28°C) and humid weather when the plant enters the flowering stage.",
+    "prevention": "Use disease-free seeds for planting and use highly resistant corn varieties such as SC 637. | Ensures strong and healthy stalks by minimizing environmental stress. | Limit plant density to 28,000 to 32,000 plants per acre (0.4 hectares) by planting 70 -90 cm between rows and 30 -50 cm giữa các cây để có thể dễ dàng phát hiện các cây có thân bị thối rữa. | Đảm bảo chế độ tưới nước cho cây, khống chế cỏ dại và duy trì mức dưỡng chất thích hợp cho đất. | Giám sát cây trồng một cách cẩn trọng, chú tâm phát hiện những vệt sọc trắng trên bề mặt hạt, tình trạng hóa vàng ở lá non và các triệu chứng héo rũ của cây ở giai đoạn ra hoa và màu nâu đỏ của thân cây bị nhiễm bệnh ở giai đoan ban đầu. | Khống chế sự phát triển của các loài sâu đục thân vì chúng góp phần phân tán mầm bệnh. | Bảo đảm chế độ bón phân hợp lý trong các giai đoạn cuối quá trình tăng trưởng của cây. | Loại bỏ và chôn vùi kỹ những cây bị nhiễm bệnh. | Cày đất để chôn vùi tàn dư cây trồng của vụ mùa bị nhiễm bệnh. | Vệ sinh sạch sẽ kho chứa. | Trước khi cho vào kho, sấy hạt cho đến khi độ ẩm của hạt hạ xuống đến mức 15% hay thấp hơn. | Trữ hạt ở trong điều kiện độ ẩm và nhiệt độ thấp. | Sau After 3 years of growing corn, crop rotation should be applied with legumes or soybeans.",
+    "summary": "Weak stems. | Small, black fungal structures appear on stems. | Discolored corn. | Plant growth is stunted.",
+    "videoUrl": "https://youtu.be/Ccg098jHCIs?si=D4LyAwQJQ0NZYBm0"
+  },
+  {
+    "id": "41",
+    "title": "Cordana leaf spot on Banana",
+    "scientific_name": "Cordana musae",
+    "disease_type": "Fungal",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Cordana_musae1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Cordana_musae2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Cordana_musae3.jpg"
+    ],
+    "symptoms": "Yellow or light brown, oval or eye-shaped spots that appear near the edges of lower leaves. Over time, the spots spread and the tissue in their central area dies and gradually forms a clear concentric area. These spots can grow longer along the veins as the leaf grows. Some spots can coalesce to form large patches of dead tissue surrounded by yellow tissue. When the leaf margins are infected, the spots can small concentric growths, then the dead tissue forms long, light brown stripes. These stripes sometimes extend to the midrib. Infected leaves can be quite visible because the infected areas are often surrounded by a bright yellow halo.",
+    "organic_control": "There is no purely biological solution against this disease. Therefore, proper management of banana gardens is very important. In severe cases, organic copper preparations, for example Bordeaux mixture 1%, can be sprayed on infected areas.",
+    "chemical_control": " If possible, always consider a combination of preventative measures and biological treatments. Because there are a number of different leaf spot diseases in bananas, make sure you are dealing with Cordana leaf spot and not freckle leaf spot or Sigatoka leaf spot. In severe cases, use mancozeb 0.4% or oil-based preparations containing copper oxygen chloride 0.2-0.4%. Recommended. fungicides such as chlorothalonil or mancozeb and root fungicides, such as tebuconazole or propiconazole, be sure to spray the leaves at the top.",
+    "cause": "These symptoms are caused by the fungus Cordana musae. Also known as Cordana leaf spot, this disease is one of the most important fungal diseases commonly found in bananas, prevalent in most banana-growing areas. The pathogen is spread by spray water and wind, causing the disease to spread to nearby fields. Fungal growth is accelerated in hot, humid conditions and frequent rains. Leaf damage caused by this disease significantly reduces the photosynthetic area and crop productivity.",
+    "prevention": "Use resistant varieties if available in your area (some varieties are commercially available). | Create adequate spacing between plants to avoid shading and leaf contact. | Make sure new plantings are away from infected plantings. | Avoid sprinkler irrigation to minimize relative humidity and use drip irrigation instead. | Apply a balanced fertilization regimen and especially avoid applying too much nitrogen. | Remove contaminated leaves diseases and burn them. |. Practice field hygiene by removing dry leaves from plants.",
+    "summary": "Oval yellow or light brown spots appear near the edges of lower leaves. | Dead tissue forms long light brown stripes. | Infected areas have a yellow halo.",
+    "videoUrl": "https://youtu.be/S5XZsFwUP9w?si=zA-1ZqDJzyD69fzz"
+  },
+  {
+    "id": "42",
+    "title": "Bugs nibble on young fruit on Bananas",
+    "scientific_name": "Colaspis hypochlora",
+    "disease_type": "Insect Pests",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Colaspis_hypochlora1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Colaspis_hypochlora2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Colaspis_hypochlora3.jpg"
+    ],
+    "symptoms": "Adult beetles feed on a variety of weeds, as well as unopened young leaves, stems and roots of banana plants. They also feed on young fruit, causing scars and spots on the skin, disfiguring the fruit and making it unmarketable. Most scars appear near the stem of the fruit, reflecting the fact that the beetle chooses the parts of the plant that are best protected to feed on (e.g., underneath the banana flower sheath). Most scars are oval in shape. and can be confused with scars caused by the fruit scarring wasp Melipona amalthea. The damage becomes worse if the damaged tissues are invaded by opportunistic pathogens that feed on young roots and burrow into old roots to feed on root tissue. This pest is often found in abundance during the rainy season.",
+    "organic_control": "Up to now, there are almost no suitable biological treatments to prevent this pest. The best preventive measure to avoid the proliferation of this bug is to have a reasonable weeding plan.",
+    "chemical_control": " Where possible, always consider a combination of preventative measures and biological treatments. Chemical control should not normally be used; careful weeding can reduce the population of beetles enough to replace the use of insecticides. Spray insecticides on a rotational basis depending on the pest population. However, unless the beetles are causing serious economic damage, their use should be avoided. pesticides.",
+    "cause": "The damage mentioned above comes from a beetle with the scientific name Colaspis hypochlora. This beetle often causes scars on bananas. Adult beetles have brown front wings with very characteristic rows of small parallel dots. They fly very well. Females lay light lemon yellow eggs, scattered singly or in clusters, with the number ranging from 5 to 45 eggs. Egg laying takes place in cavities that are gnawed by beetles in leaf sheaths near leaf tips or in natural depressions. After 7 to 9 days, the newly hatched larvae begin to eat young plant roots or make burrows into the soft epidermal tissues of old roots to eat them. The larvae have a white, slender and hairy body, and the pupa has an eel skin color, turning darker when mature.",
+    "prevention": "Maintain careful weed control in plantings, as this beetle thrives on weeds. | Avoid planting bananas near drainage channels. | Remove below-ground pseudostems and prune rhizomes where larvae mature. | Remove damaged plant parts from the planting area. | Rake the soil surface to expose pupae to the ground as food for their natural enemies.",
+    "summary": "Severe spots or scars on pods and young leaves. | Scars are oval in shape. | Roots damaged by larval feeding.",
+    "videoUrl": "https://youtu.be/vEV4jYIPl_M?si=AU_yowJbUyJQeGtI"
+  },
+  {
+    "id": "43",
+    "title": "Banana beetles damage bananas",
+    "scientific_name": "Pericallia ricini",
+    "disease_type": "Insect Pests",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Pericallia_ricini1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Pericallia_ricini2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Pericallia_ricini3.jpg"
+    ],
+    "symptoms": "Damage caused by larvae. Symptoms initially appear as leaf scratching damage on the leaves as the larvae feed on the chlorophyll content of the leaf tissue. Over time, these leaves show a window-like gnawing pattern, with large, light brown translucent areas. This gnawing damage leads to defoliation in severe cases.",
+    "organic_control": "Indian evergreen seed extract can help control infestations in the early stages of larval development. Therefore, a 5% solution of this seed extract should be mixed with 1 liter of water.",
+    "chemical_control": " Where possible, always consider a combination of preventative measures and biological remediation measures. If pesticides are needed, products containing chlorpyrifos can be used for foliar spraying. Be cautious of chemicals listed as having adverse health effects on humans as well as mammals, bees, fish and birds.",
+    "cause": "The banana beetle is a moth. Therefore, the adults can only be detected late in the evening and during the night. The forelimbs of the sturdy adults are gray with black spots and the hind wings are pink. The larvae are black with a brown head and long brown hairs all over the body.",
+    "prevention": "Inspect crops or fields for any signs of pests. | Hand-destroy egg masses, larvae, plants, or infected plant parts in the field to stop the progress of the infestation. | Attract adults with light traps for surveillance purposes or mass traps to kill them. | For mass traps, use fire torches to attract immature insects. | Remove infected plants and destroy them with fire.",
+    "summary": "Scratch damage appears as light brown leaf tissue without chlorophyll. | Rodent damage appears on leaves that open like windows. | In severe cases, gnawing damage leads to leaf loss.",
+    "videoUrl": "https://youtu.be/1N8UrL-P7A0?si=N62xB5014uRjvvaO"
+  },
+  {
+    "id": "44",
+    "title": "Black thrips damage grapes",
+    "scientific_name": "Retithrips syriacus",
+    "disease_type": "Insect Pests",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Retithrips_syriacus1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Retithrips_syriacus2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Retithrips_syriacus3.jpg"
+    ],
+    "symptoms": "Thrips suck sap from the leaves of the host plant, causing leaf drop and leaf wrinkling. Silvery patches appearing on the leaves are traces of thrips using their mouthparts to puncture leaves to suck sap. In thrips feeding areas, the fruit turns gray. In plants heavily infested with thrips, the fruit looks ugly and does not develop normally.",
+    "organic_control": "Introduce natural enemies of this pest to the vineyard, such as the predatory stink bug Geocoris ochropterus and the red spider Metaseiulus occidentalis (predatory beetles). Predatory beetles, blue-veined beetles, pirate beetles and other Phytoseiid beetles can help control this sap-sucking thrips.",
+    "chemical_control": " Always consider using a combination of preventative measures combined with biological treatments, if applicable. Insecticides are unlikely to control thrips effectively, in part due to their mobility, feeding habits, egg protection and pupal stages (developmental stages in the insect's life cycle with morphological changes occurring from the larval stage to the adult stage). Pesticides currently used in some areas of the world are dimethoate and bifenthrin. Spinosad-based products are considered organic control tools for this pest. At all times, follow your local pest management regulations.",
+    "cause": "The damage mentioned above is caused by adult thrips and their larvae (young thrips) feeding by sucking plant sap. Thrips hatch from eggs and then develop by actively feeding during two larval stages. When mature, adult female thrips are about 1.4-1.5 cm long while male thrips are about 1.3 cm long. They are dark to dark brown in color. Larvae hatch from the eggs, and begin to feed on the larva. like immediately, often feeding in groups. Newly developed beetles are slightly smaller and lighter in color. Thrips feed on the underside of leaves and, when heavily infested, the upper leaf surfaces are also attacked, especially in cooler months. In warmer weather, the thrips life cycle from egg to adult can be completed in as little as 2 weeks.",
+    "prevention": "Do not plant plants that are susceptible to this pest. | Monitor the garden's bug population regularly and periodically and control weeds that are alternative host plants for thrips around the garden. | Plant plants that are well adapted to the conditions at the planting site. | Apply appropriate plant care measures to help plants maintain their vitality and increase their resistance to damage caused by thrips. | Water plants well and avoid fertilizing Excess nitrogen fertilizer is a factor that can promote the growth of thrips populations.",
+    "summary": "Silver patches appear on leaves and fruits. | Small shiny gray and black spots (insect droppings) appear on leaves.",
+    "videoUrl": "https://youtu.be/WV9CxcEcDbI?si=xMHacLWGDiix1rC0"
+  },
+  {
+    "id": "45",
+    "title": "Ferruginous thrips damage bananas",
+    "scientific_name": "Chaetanaphothrips signipennis",
+    "disease_type": "Insect Pests",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Chaetanaphothrips_signipennis1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Chaetanaphothrips_signipennis2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Chaetanaphothrips_signipennis3.jpg"
+    ],
+    "symptoms": "Infestation can occur at any stage of growth and can be seen on leaves, sheaths and fruit. Adults and larvae often settle behind the base of leaf sheaths. Pupae live in colonies and feed by sucking plant sap with their mouthparts. Initial symptoms appear as watery areas on the fruit. Over time, these areas give the fruit a characteristic rusty appearance, with dark red skin turning brown. Usually, damage is only evident on the skin, but if the tree is heavily infected, the entire fruit may show signs of damage. On more mature fruit, cracks may sometimes be seen. The infected fruit chambers in the early stages of development often suffer the most damage.",
+    "organic_control": "Parasitic insects from the chrysopidae family and ladybugs can be used to control this pest. Some ants can be equally effective, attacking pupae in the soil. If you are not sure that the seedling comes from a healthy source, hot water treatment can help reduce the risk of infection.",
+    "chemical_control": " If possible, always consider a combination of preventative measures and biological treatment measures. If pesticides are needed, they should be applied to the soil to kill pupae, as well as to plants and fruit to kill adults. Such an approach may be the only possibility to avoid reinfestation.",
+    "cause": "The above symptoms are mainly caused by the thrips Chaetanaphothrips Signipennis, but other species may also be involved (such as Helionothrips kadaliphilus). This pest is usually transmitted by infected plant parts or, to a lesser extent, directly by flying from plant to plant. Adult beetles are slender, brownish yellow, about 1.3 mm in size and have narrowly fringed wings with fringes. two dark areas on the front wings. The female lays small eggs (not visible to the naked eye) under the leaf sheath and where the fruit touches the plant. After about 7 days, the wingless, cream-colored larvae hatch. They then move to the ground, enter the soil where the plant is planted, and after another 7-10 days, a new generation of thrips can form every year when the weather is hot and humid, their population can peak.",
+    "prevention": "Use healthy plants from certified sources. | Remove stray plants and avoid planting host plants around main crop fields. | Visit fields and inspect crops periodically for any signs of pests. | Cover fruit chambers from the start to protect plants. | Remove infested plants and destroy them by burning. | Eliminate abandoned plantings as they can act as sources of pest spread.",
+    "summary": "Cohorts of adults and nymphs can be found on leaves, stems, and fruit. | Bite damage is manifested as watery areas on the fruit. | The spots turn into rough, rusty spots that can change from dark red to dark brown and cover the entire skin. | Mature fruit may also have cracks or burst open.",
+    "videoUrl": "https://youtu.be/efcwhw49ZcQ?si=7aQxkmy2p2VdjDyb"
+  },
+  {
+    "id": "46",
+    "title": "Thrips damage peppers",
+    "scientific_name": "Scirtothrips dorsalis",
+    "disease_type": "Insect Pests",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Scirtothrips_dorsalis1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Scirtothrips_dorsalis2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Scirtothrips_dorsalis3.jpg"
+    ],
+    "symptoms": "Both nymphs and adults feed on the undersides of young leaves. They scrape and puncture the tissue and suck up the oozing fluid. Infected leaves develop silvery light brown spots and may show signs of deformity (curling). In the worst cases, the leaves are completely deformed and the plant then loses its leaves prematurely. Inflorescence biting shows streaks on the petals and can lead to drying and falling. Scattered, spotted and deformed fruit will reduce prices. Although the infestation occurs throughout the year, it peaks during the drier months and when there is too much nitrogen in the soil.",
+    "organic_control": "Various biological control agents such as small pirate aphids of the genus Orius, and phytoseiid mites such as Neoseiulus cucumeris and Amblyseius swirskii have been reported to effectively control thrips in pomegranates. Predatory mites such as Euseius sojaensis, E.hibisci and E. tularensis have also been used effectively to control populations on alternative host crops such as pepper and grapes. Spread diatomaceous earth (diatomaceous earth) around the base of the plant and leaves to dehydrate thrips and their larvae (in the evening). Apply neem oil, spinetoram or spinosad on both sides of the leaves and around the base of the plant.",
+    "chemical_control": " Where possible, always consider a combination of preventative measures and biological treatments. Foliar sprays containing malathion are recommended for thrips control. Use of other insecticides is also effective in reducing the population of S. dorsalis. For example, the use of abamectin, methomyl and dimethoate is known to be effective against thrips in general.",
+    "cause": "Symptoms are caused by two species of thrips, Scirtothrips dorsalis and Rhiphiphorothrips cruentatus. Adult Scirtothrips dorsalis are straw-colored. Females lay about 50 bean-shaped gray-white eggs, usually inside leaves and young shoots. As the population increases, they will also choose the surface of mature leaf blades. Incubation period is 3-8 days. Newly hatched nymphs are small with red bodies. which then turn yellow-brown. Nymphs enter metamorphosis and then complete their development in loose soil or leaf litter at the base of their host plant. The adult R. cruentatus is a small, slender, soft-bodied insect with dark brown, fringed wings with yellow wings 1.4 mm long.",
+    "prevention": "Choose resistant varieties, if available. | Use sticky traps to monitor thrips populations. | Another approach is to pluck leaves from infected plants and gently tap them on a piece of white paper. | Remove heavily infected plants from the field. | Water the soil well and avoid over-fertilizing with nitrogen fertilizers. | Avoid overuse of pesticides to preserve beneficial insect populations. | Avoid planting alternative host plants in the surrounding environment. | Remove weeds in and around fields. |. Windbreaks can protect fields from long-distance damage. |. Plow the soil to bring thrips to the surface, exposing them to the sun.",
+    "summary": "Leaf curling. | Trees lose leaves early. | Flowers and fruits are also affected. | Small and slender insects with dark brown bodies and yellow wings.",
+    "videoUrl": "https://youtu.be/C16dj6BuIy8?si=e8UcbC5kjqcnkJGF"
+  },
+  {
+    "id": "47",
+    "title": "Fruit Fly Damage Papaya",
+    "scientific_name": "Toxotrypana curvicauda",
+    "disease_type": "Insect Pests",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Toxotrypana_curvicauda1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Toxotrypana_curvicauda2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Toxotrypana_curvicauda3.jpg"
+    ],
+    "symptoms": "Female flies lay their eggs in young or very young fruits. The punctured skin oozes sap whose color contrasts clearly with the dark green skin. The fly larvae hatch, burrow through the fruit flesh to reach the seed chamber and feed on the developing seeds. The exit holes for the burrows appear clearly on the surface of the fruit. The extensive burrowing process causes the fruit flesh to rot, appearing as brown and sometimes black lesions as the rot progresses. Then, the fruit emits a foul odor, sometimes secreting a liquid-like substance. The fruit peel turns yellow and may peel or become pitted. The fruit may ripen and fall off prematurely.",
+    "organic_control": "The parasitic wasp Doryctobracon toxotrypanae has the ability to control the population of this harmful fly.",
+    "chemical_control": " Where possible, always consider a combination of preventative measures and biological treatments. There appears to be no effective insecticide against this fly. Traps containing an insecticide (e.g. malathion or deltamethrin) combined with a specific bait (for male or female flies) are being tested. Fruit can be treated with pesticide fumigation to kill the fly. this. ",
+    "cause": "The above symptoms arise from a fly species with the scientific name Toxotrypana curvicauda. The fly lays eggs in young green papayas. Adult flies are often confused with wasps because of their similar size, color and behavior. The fly has a yellow body with symmetrical black markings on the thorax. The female fly has a long and narrow abdomen with an ovipositor that curves and extends beyond the length of the body. The larvae are white, slender, about 13-15 mm long. The fruit can be attacked by many larvae at the same time and symptoms of damage appear after harvest. Damage to the fruit reaches its peak after the end of the rainy season.",
+    "prevention": "Monitor damage or place sex hormone traps to monitor fly populations. | Use paper bags to cover fruit to discourage flies from laying eggs on the fruit. | Remove fallen and prematurely ripened fruit from the garden. | Collect fruit infested with fruit flies and destroy them. | Use plants as traps around the garden to attract flies. | Harvest earlier to avoid the worst damage. | Store fruit at 13 to 16°C. |. Plow the soil around the plant to kill adult flies developing in the soil before they appear on the plant.",
+    "summary": "The fruit turns yellow and falls off early.",
+    "videoUrl": "https://youtu.be/_2sW0b-NF6w?si=oChWftYlOpQQP33c"
+  },
+  {
+    "id": "48",
+    "title": "Leaf rollers damage eggplant",
+    "scientific_name": "Eublemma olivacea",
+    "disease_type": "Insect Pests",
+    "listImage": [
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Eublemma_olivacea1.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Eublemma_olivacea2.jpg",
+      "https://raw.githubusercontent.com/NguyenLinhK7/plantclinic/main/image/Eublemma_olivacea3.jpg"
+    ],
+    "symptoms": "The larvae of this pest only cause damage to leaves. The initial symptoms are infested leaves curling up vertically. The worms feed on the inner tissues of these leaves. Damage occurs most in the upper parts of the plant. Curled leaves may turn brown, wilt and dry out. As the infestation worsens, entire parts of the plant turn brown and the plant loses its leaves. This can lead to crop losses. severe damage if measures are not taken to control the population. However, this pest is rarely a major threat to crop growth and yield.",
+    "organic_control": "Biological control can be achieved by using parasitic wasps, such as Cotesia spp., to reduce pest infestation levels. Predatory insects such as mantises, ladybugs or beetles also help control the population of these pests. Nematodes such as Steinernema spp. can also control pest populations.",
+    "chemical_control": " In all cases, consideration should be given to the possibility of incorporating applicable prevention and countermeasures. If pesticides are required, spray products containing malathion to reduce leafroller populations.",
+    "cause": "The butterflies of this caterpillar are medium-sized, light brown to olive green in color with a three-sided dark patch on the outer part of the front wings. Their hind wings are translucent white. Female butterflies lay clusters of about 8-22 eggs on the upper surface of leaves, usually on young leaves. After about 3-5 days, the eggs hatch into larvae that are purple-brown, plump, have cream or yellow concave bumps, and have many long hairs. The larva (worm) stage lasts about 4 weeks, then the worm turns into a pupa inside the rolled leaf. After 7 -10 days, the pupa turns into a new generation of adult butterflies. Each year there are about 3 -4 generations of butterflies like that, depending on weather conditions.",
+    "prevention": "Should be planted late in the season. | Plant healthy seedlings and have a proper fertilization plan. | Check the garden and plants regularly for any signs of disease or pests. | Use your hands to catch worms and remove infected leaves. | Remove and destroy infested leaves by burning them. | Do not use large-scale pesticides to avoid harming the natural enemies of this pest.",
+    "summary": "The larvae (worms) eat soft young leaves, causing them to tear and become ragged. | Young leaves curl up along the length of the leaf. | The rolled leaves turn brown and eventually dry. | In severe infestation, the entire plant turns brown and loses its leaves.",
+    "videoUrl": "https://youtu.be/7mJkiJXf2uk?si=CYNSzB4Q9SC0M-wF"
   }
 ]
